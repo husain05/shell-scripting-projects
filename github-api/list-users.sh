@@ -7,6 +7,8 @@
 #         And input args are org name and repo name
 #
 # Owner: Originally written by Abhishek Veeramalla, I am learing from it :)
+#
+# Test Env: Ubuntu WSL
 ############################################################################
 
 # GitHub API URL
